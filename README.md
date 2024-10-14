@@ -8,7 +8,7 @@
 
 🌐 I’m excited to collaborate with teams passionate about driving technological advancements and to contribute my technical expertise, leadership skills, and entrepreneurial mindset to meaningful projects.
 
-💼 **Current Role:** Co-Founder & CTO at [Epsilos](https://www.epsilos.com)
+💼 **Formerly:** Co-Founder & CTO at [Epsilos](https://www.epsilos.com)
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/denizgokce/) | [Email](mailto:denizgokce93@gmail.com)
 
